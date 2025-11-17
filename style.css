@@ -1,4 +1,4 @@
-/* RESET */
+
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +6,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* NAVBAR */
+
 nav {
   position: fixed;
   top: 0;
@@ -36,7 +36,7 @@ nav .menu a:hover {
   color: #00eaff;
 }
 
-/* HERO SECTION */
+
 .bgimage {
   height: 90vh;
   background: url('internet-technology-world-wide-web-mobile-phone-computer-earth-computer-tech-fashion-business-background.png');
@@ -69,7 +69,7 @@ nav .menu a:hover {
   margin-bottom: 10px;
 }
 
-/* CONTENT SECTIONS */
+
 section {
   padding: 4rem 0;
 }
@@ -89,10 +89,11 @@ ul {
   line-height: 1.8;
 }
 
-/* FOOTER */
+
 footer {
   text-align: center;
   background: #222;
   color: white;
   padding: 20px 0;
 }
+
